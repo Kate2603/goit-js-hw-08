@@ -1,0 +1,419 @@
+/* hover */
+
+position: relative;
+width: 1440px;
+height: 696px;
+
+background: #ffffff;
+
+/* Section 1 */
+
+position: absolute;
+width: 1128px;
+height: 200px;
+left: 156px;
+top: 24px;
+
+/* 3 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 924px;
+top: 24px;
+
+background: url(ben-kolde-Ajcipx1VDXI-unsplash);
+
+/* 2 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 540px;
+top: 24px;
+
+background: url(diego-ph-fIq0tET6llw-unsplash);
+
+/* 1 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 156px;
+top: 24px;
+
+background: url(ux-indonesia-qC2n6RQU4Vw-unsplash.jpg);
+
+/* Section 2 */
+
+position: absolute;
+width: 1128px;
+height: 208px;
+left: 156px;
+top: 244px;
+
+/* 3 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 924px;
+top: 248px;
+
+background: url(alex-kotliarskyi-QBpZGqEMsKg-unsplash);
+
+/* 2 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 540px;
+top: 248px;
+
+background: url(slidebean-TpGIpUF67po-unsplash);
+
+/* 4 */
+
+position: absolute;
+width: 376px;
+height: 208px;
+left: 532px;
+top: 244px;
+
+background: url(slidebean-TpGIpUF67po-unsplash);
+
+/* 1 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 156px;
+top: 248px;
+
+background: url(nastuh-abootalebi-eHD8Y1Znfpk-unsplash);
+
+/* Section 3 */
+
+position: absolute;
+width: 1128px;
+height: 200px;
+left: 156px;
+top: 472px;
+
+/* 3 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 924px;
+top: 472px;
+
+background: url(campaign-creators-gMsnXqILjp4-unsplash);
+
+/* 2 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 900px;
+top: 472px;
+
+background: url(christin-hume-Hcfwew744z4-unsplash);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* 1 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 156px;
+top: 472px;
+
+background: url(ian-dooley-DJ7bWa-Gwks-unsplash);
+
+/* bxs:hand-down */
+
+position: absolute;
+width: 44px;
+height: 44px;
+left: 930px;
+top: 482px;
+
+transform: rotate(-180deg);
+
+/* Vector */
+
+position: absolute;
+left: 87.5%;
+right: -65.98%;
+top: 91.67%;
+bottom: -75%;
+
+background: #4e75ff;
+transform: rotate(-180deg);
+
+/* gallery */
+
+position: relative;
+width: 1440px;
+height: 696px;
+
+background: #ffffff;
+
+/* Section 1 */
+
+position: absolute;
+width: 1128px;
+height: 200px;
+left: 156px;
+top: 24px;
+
+/* 3 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 924px;
+top: 24px;
+
+background: url(ben-kolde-Ajcipx1VDXI-unsplash);
+
+/* 2 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 540px;
+top: 24px;
+
+background: url(diego-ph-fIq0tET6llw-unsplash);
+
+/* 1 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 156px;
+top: 24px;
+
+background: url(ux-indonesia-qC2n6RQU4Vw-unsplash.jpg);
+
+/* Section 2 */
+
+position: absolute;
+width: 1128px;
+height: 200px;
+left: 156px;
+top: 248px;
+
+/* 3 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 924px;
+top: 248px;
+
+background: url(alex-kotliarskyi-QBpZGqEMsKg-unsplash);
+
+/* 2 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 540px;
+top: 248px;
+
+background: url(slidebean-TpGIpUF67po-unsplash);
+
+/* 1 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 156px;
+top: 248px;
+
+background: url(nastuh-abootalebi-eHD8Y1Znfpk-unsplash);
+
+/* Section 3 */
+
+position: absolute;
+width: 1128px;
+height: 200px;
+left: 156px;
+top: 472px;
+
+/* 3 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 924px;
+top: 472px;
+
+background: url(campaign-creators-gMsnXqILjp4-unsplash);
+
+/* 2 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 900px;
+top: 472px;
+
+background: url(christin-hume-Hcfwew744z4-unsplash);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* 1 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 156px;
+top: 472px;
+
+background: url(ian-dooley-DJ7bWa-Gwks-unsplash);
+
+/* modal */
+
+position: relative;
+width: 1440px;
+height: 696px;
+
+background: #ffffff;
+
+/* Section 1 */
+
+position: absolute;
+width: 1128px;
+height: 200px;
+left: 156px;
+top: 248px;
+
+/* 3 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 924px;
+top: 248px;
+
+background: url(ben-kolde-Ajcipx1VDXI-unsplash);
+
+/* 2 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 540px;
+top: 248px;
+
+background: url(diego-ph-fIq0tET6llw-unsplash);
+
+/* 1 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 156px;
+top: 248px;
+
+background: url(ux-indonesia-qC2n6RQU4Vw-unsplash.jpg);
+
+/* Section 2 */
+
+position: absolute;
+width: 1128px;
+height: 200px;
+left: 156px;
+top: 248px;
+
+/* 3 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 924px;
+top: 248px;
+
+background: url(alex-kotliarskyi-QBpZGqEMsKg-unsplash);
+
+/* 2 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 540px;
+top: 248px;
+
+background: url(slidebean-TpGIpUF67po-unsplash);
+
+/* 1 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 156px;
+top: 248px;
+
+background: url(nastuh-abootalebi-eHD8Y1Znfpk-unsplash);
+
+/* Section 3 */
+
+position: absolute;
+width: 1128px;
+height: 200px;
+left: 156px;
+top: 248px;
+
+/* 3 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 924px;
+top: 248px;
+
+background: url(campaign-creators-gMsnXqILjp4-unsplash);
+
+/* 2 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 900px;
+top: 248px;
+
+background: url(christin-hume-Hcfwew744z4-unsplash);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+/* 1 */
+
+position: absolute;
+width: 360px;
+height: 200px;
+left: 156px;
+top: 248px;
+
+background: url(ian-dooley-DJ7bWa-Gwks-unsplash);
+
+/* Overlay */
+
+position: absolute;
+width: 1440px;
+height: 696px;
+left: calc(50% - 1440px / 2);
+top: calc(50% - 696px / 2);
+
+background: rgba(46, 47, 66, 0.8);
+
+/* 1 */
+
+position: absolute;
+width: 1112px;
+height: 640px;
+left: 164px;
+top: calc(50% - 640px / 2);
+
+background: url(ux-indonesia-qC2n6RQU4Vw-unsplash.jpg);
